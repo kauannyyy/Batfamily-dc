@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Platypi;
+    
+}
+body{
+    background-color: #3a4752;
+}
+nav a {
+    text-decoration: none;
+    padding: 2.5em;
+    color: #ffffff;
+}
+
+nav{
+    text-align: center;
+    background-color: #788fa0;
+}
+h1{
+    text-align: center;
+    padding-top: 55px;
+    font-size: 40px;
+    color: rgb(142, 116, 170);
+}
+.caixa4 {
+    margin: 30px;
+    padding: 55px;
+    padding-top: 5px;
+    padding-left: 500px;
+    overflow: auto;
+    width: 500px;
+
+}
+.caixa4  ul{
+    padding-left: 50px;
+    color: #bb6cf0;
+    padding-top: 15PX;
+    padding-bottom: 15px;
+}
+h2{
+    font-size: 27px;
+    color: rgb(60, 26, 95);
+}
+
+h4{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+p{
+    line-height: 30px;
+    color: #ffffff;
+    padding-top: 15PX;
+}
+footer{
+    text-align: center;
+    color: beige;
+}
+
+.sumario , a{
+    color: white;
+    color: #d5a9f1;
+    font-size: 20px;
+}
+
+.barbara1 h3{
+    color: yellow;
+}
+.barbara1 h4{
+     color: #bb6cf0;
+}
+
+img{
+    height: 400px;
+    width: 300px;padding-top: 15px;
+}
+
+.betty1 h3{
+    color: red;
+}
+.betty1 h4{
+    color: rgb(40, 161, 40);
+}
+
+.cas2{
+    color:rgb(139, 139, 33);
+}
+.cas2 h4{
+    color:rgb(184, 184, 66);
+}

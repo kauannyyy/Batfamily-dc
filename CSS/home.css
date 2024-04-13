@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Platypi;
+    
+}
+body{
+    background-color: #3a4752;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 2.5em;
+    color: #ffffff;
+}
+
+nav{
+    text-align: center;
+    background-color: #788fa0;
+}
+h1{
+    text-align: center;
+    padding-top: 55px;
+}
+.caixa {
+    margin: 30px;
+    padding: 55px;
+    padding-top: 5px;
+    padding-left: 500px;
+    overflow: auto;
+    width: 500px;
+
+}
+.caixa  ul{
+    padding-left: 50px;
+    color: #ffffff;
+    padding-top: 15PX;
+}
+h3, h4 , h5{
+    font-size: 20px;
+    padding-top: 15PX;
+}
+p{
+    line-height: 30px;
+    color: #ffffff;
+    padding-top: 15PX;
+}
+
+h2, h1, h3,h4,h5{
+    color: #d6888a;
+}
+
+img{
+    height: 400px;
+    width: 470px;
+}
+
+.foto2{
+    padding-top: 50px;
+}
+
+footer{
+    text-align: center;
+    color: beige;
+}
